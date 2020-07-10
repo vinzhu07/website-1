@@ -17,6 +17,9 @@
 .white-text {
   color: #fff; }
 
+.black-text {
+  color: #000; }
+
 .light-text {
   color: #F3F8F3; }
 
@@ -41,7 +44,6 @@
     background-color: black; }
 
 #black {
-  font-size: 1.25em;
   color: black;
 }
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -1041,7 +1043,7 @@ select {
         font-size: 1.25em; }
       .top #black header nav a{
         color: black;
-        font-size: 1em;
+        font-size: 1.25em;
       }
 
 
@@ -1256,7 +1258,8 @@ select {
       height: auto;
     }
     #sponsors h2 {
-      text-align: center;
+        padding-top: 100px;
+        text-align: center;
     }
 
     #sponsors h3 {
