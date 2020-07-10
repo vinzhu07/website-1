@@ -37,6 +37,8 @@
 
 .white-bg {
     background-color: white; }
+.black-bg {
+    background-color: black; }
 
 #black {
   font-size: 1.25em;
@@ -511,7 +513,7 @@ select {
   font-size: 1.25em; }
 
 .btn {
-  background: #CB6A79;
+  background: #00367d;
   border-radius: 1.5em;
   -webkit-box-shadow: 0px 0px 34px -9px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 34px -9px rgba(0, 0, 0, 0.75);
@@ -1214,7 +1216,8 @@ select {
       line-height: 1.75em; }
 
   #contact {
-    background: url("../images/contact_us_hero.png") no-repeat;
+    background: black;
+    /* background: url("../images/contact_us_hero.png") no-repeat; */
     background-size: cover;
     color: #fff; }
     #contact p {
