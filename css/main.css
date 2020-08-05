@@ -917,7 +917,7 @@ select {
         text-shadow: 0 0 15px #4267B2;
     }
     footer ul li:nth-child(2):hover{
-        color: #26a4f2;
+        color: #2a6cbb;
         box-shadow: 0 0 15px #1DA1F2;
         text-shadow: 0 0 15px #1DA1F2;
     }
@@ -927,7 +927,7 @@ select {
         text-shadow: 0 0 15px #E1306C;
     }
     footer ul li:nth-child(4):hover{
-        color: #2a6cbb;
+        color: #26a4f2;
         box-shadow: 0 0 15px #2867B2;
         text-shadow: 0 0 15px #2867B2;
     }
