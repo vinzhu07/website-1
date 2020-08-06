@@ -515,7 +515,7 @@ select {
   font-size: 1.25em; }
 
 .btn {
-  background: #00367d;
+  background: #d4c16c;
   border-radius: 1.5em;
   -webkit-box-shadow: 0px 0px 34px -9px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 34px -9px rgba(0, 0, 0, 0.75);
@@ -1217,12 +1217,12 @@ select {
     }
 
   #bootcamp {
-    background: url("../images/bootcamp_hero.png") no-repeat;
+    background: white url("../images/bootcamp_hero.png") no-repeat;
     background-size: cover;
     margin-bottom: -18%;
     padding: 6em 0 15em; }
     #bootcamp h2 {
-      color: #233F71; }
+      color: #d4c16c; }
     #bootcamp p {
       margin: 1em 0; }
 
@@ -1335,7 +1335,7 @@ select {
     width: 80%;
     margin: 0 auto; }
     .activity div:last-of-type {
-      color: #233F71;
+      color: #d4c16c;
       font-weight: 600;
       font-size: 1.5em;
       line-height: 5em;
